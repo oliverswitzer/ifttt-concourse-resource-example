@@ -10,7 +10,7 @@
 ifttt_api_key: <YOUR API KEY>
 ```
 
-- The IFTTT events that you would like to fire on success or failure of a build:
+- The IFTTT events that you would like to fire on success or failure of a build to `pipeline.yml`:
 
 ```.yml
 jobs:
